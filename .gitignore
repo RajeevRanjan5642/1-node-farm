@@ -1,2 +1,3 @@
 # these files/folders will be ignored by git #
 node_modules
+*.png
